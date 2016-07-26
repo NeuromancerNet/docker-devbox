@@ -3,6 +3,6 @@ devbox:
   build:
     .
   dockerfile:
-    docker/Dockerfile
+    Dockerfile
   volumes:
     - ./assets:/app
